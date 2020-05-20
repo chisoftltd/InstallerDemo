@@ -4,9 +4,9 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPFChisoftApp"
-        mc:Ignorable="d"
+        mc:Ignorable="d" Background="green"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <TextBlock FontSize="38" Margin="20">This is our first version</TextBlock>
+        <TextBlock FontSize="38" Margin="20" Foreground="White">This is our second version</TextBlock>
     </Grid>
 </Window>
