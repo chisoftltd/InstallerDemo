@@ -9,7 +9,7 @@
   <Identity
     Name="43d01623-5af6-44cd-ad9e-e31d587aaf6f"
     Publisher="CN=ChisoftMedia"
-    Version="1.0.0.0" />
+    Version="1.0.1.0" />
 
   <Properties>
     <DisplayName>ChisoftMedia Demo App</DisplayName>
